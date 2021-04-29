@@ -1,8 +1,4 @@
----
-title: Moral Rights
-date: 2021-04-29 13:00:00
-author: Mark Stouffer
----
+% Moral Rights
 
 # A technical specification for a foundation of minimal requirements of government
 
