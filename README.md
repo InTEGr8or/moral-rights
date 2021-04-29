@@ -1,3 +1,9 @@
+---
+title: Moral Rights
+date: 2021-04-29 13:00:00
+author: Mark Stouffer
+---
+
 # A technical specification for a foundation of minimal requirements of government
 
 All forms of governance and rule throughout history have been built upon a system of rights.
