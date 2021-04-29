@@ -1,4 +1,4 @@
-% Moral Rights
+<title>Moral Rights</title>
 
 # A technical specification for a foundation of minimal requirements of government
 
