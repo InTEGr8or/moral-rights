@@ -1,3 +1,5 @@
+<title>Moral Rights</title>
+
 # A technical specification for a foundation of minimal requirements of government
 
 All forms of governance and rule throughout history have been built upon a system of rights.
