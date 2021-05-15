@@ -7,6 +7,16 @@ All forms of governance and rule throughout history have been built upon a syste
 - Devine right
 - Mandate of heaven
 - Majority Rule: the voice of the people
+    - Modified into Marxist/Bulshevik "dictatorship of the proletariat"
+
+### The Principle of Populism
+
+Majority-rule is called out explicitly because it pervades politial thinking amongst advocates of the left and the right in the current day.
+
+It is nearly impossible to discuss a political navigation system, or any political principles, without devolving into arguments over current public opinion with the implied assertion that that is what political distinctions _are made out of_.
+
+Contra populism, the assertion of this document is that immutable political principles exist, and that it is important to discover, identify, recognize what they are.
+
 
 ## New-world system: Individual rights
 
@@ -26,4 +36,4 @@ The problem, the reason these obviously outmoded and outdated systems of rights 
 
 This document sets out to establish on a solid foundation an objective system of rights and each of the requirments to formulate them into a valid and validatable government in absentia.
 
-The primary goal is not to establish a government, but to establish the requirements for a proper government, and to provide a document to which candidates for governments can subscribe.
+The primary goal is not to establish a government but to establish the requirements for a proper government and to provide a document to which candidates for governments can subscribe.
