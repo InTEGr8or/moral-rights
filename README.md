@@ -19,6 +19,8 @@ It is nearly impossible to discuss a political navigation system, or any politic
 
 Contra populism, the assertion of this document is that immutable political principles exist, and that it is important to discover, identify, recognize what they are.
 
+It must be pointed out that this view against populism, against the rule by majority vote, is so contrary to generally accepted assumptions and language and narratives that it must be pointed out. There are many widely used idioms which make the assumption that majority opinion is sufficient justification for moral rightness. This document makes the assertion that moral rightness must be corrected by the few, perhaps the one, before it will be adopted by any general population.
+
 
 ## New-world system: Individual rights
 
