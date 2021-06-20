@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Moral Rights"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 
+theme = "blackplain"
+
 topics = ["Contradiction", "Universal", "Activity"]
 
 MetaDataFormat = "yaml"
@@ -13,3 +15,10 @@ enableRobotsTXT = true
 publishDir = "docs"
 googleAnalytics = "UA-115076488-1"
 amazonAssociateTrackingId = "mobilea0dbe49-20"
+
+[params]
+  title = "Moral Rights"
+  taglines = ["A technical specification for","a foundation of minimal","requirements of government"]
+  version = "beta"
+  githubURL = "git@github.com:InTEGr8or/hugo_nofakingway.git"
+  logo="/images/nofakingway-250xauto.jpg"
