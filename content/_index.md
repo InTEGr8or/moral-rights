@@ -1,6 +1,6 @@
-<title>Moral Rights</title>
+# Moral Rights
 
-# A technical specification for a foundation of minimal requirements of government
+## A technical specification for a foundation of minimal requirements of government
 
 Morality is the higher-level abstract topic of discerning right action from wrong action.
 

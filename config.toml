@@ -1,0 +1,15 @@
+baseURL = "https://moralrights.tech/"
+languageCode = "en-us"
+title = "Moral Rights"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+topics = ["Contradiction", "Universal", "Activity"]
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 10
+enableRobotsTXT = true
+publishDir = "docs"
+googleAnalytics = "UA-115076488-1"
+amazonAssociateTrackingId = "mobilea0dbe49-20"
