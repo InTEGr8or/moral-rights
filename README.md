@@ -17,6 +17,16 @@ All forms of governance and rule throughout history have been built upon a syste
 - Majority Rule: the voice of the people
     - Modified into Marxist/Bulshevik "dictatorship of the proletariat"
 
+Each of these theories of politics starts from the premise of establishing a "right to rule".
+
+That means they still depend on a moral justification of a right.
+
+The problem is, none of them achieve the concept of right. They attempt to build a political system that are claimed to be based on a right, while at the same time violating that actual concept of a right.
+
+A right is a universal principle of what is right, so as to blame a violation of a write, which is called a _wrong_. If a man's rights are violated, we say he was wronged.
+
+You can't establish a universal system of rights by basing it on a right to violate other people's rights. There can be no such right, since it would undermine the concept of right and wrong in general.
+
 ### The Principle of Populism
 
 Majority-rule is called out explicitly because it pervades politial thinking amongst advocates of the left and the right in the current day.
@@ -34,7 +44,7 @@ It must be pointed out that this view against populism, against the rule by majo
 
 ## Left and Right: a fragile dichotomy
 
-Polotics is about governance and governance is about laws, and laws are about distinguishing, judging, right from wrong.
+Politics is about governance and governance is about laws, and laws are about distinguishing, judging, right from wrong.
 
 ## The Problem
 
