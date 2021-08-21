@@ -27,6 +27,14 @@ A right is a universal principle of what is right, so as to blame a violation of
 
 You can't establish a universal system of rights by basing it on a right to violate other people's rights. There can be no such right, since it would undermine the concept of right and wrong in general.
 
+### The Popularity of Populism
+
+It's important to show the problems with democracy as an ideal, because it's the most popular ideal in _many_ ways.
+
+Countless books and articles focus on "The Threat to Democracy" and "Liberty vs Democracy" [citation needed]
+
+Additionally, societal progress of privatly owned printing, production, and industry is labeld "The democratization of printing" and "the democratization of production", when, in fact, it's the opposite of democratization. No one has to vote on what their private means of production will produce.
+
 ### The Principle of Populism
 
 Majority-rule is called out explicitly because it pervades politial thinking amongst advocates of the left and the right in the current day.
