@@ -1,4 +1,8 @@
- the primary principle of rights is that they are self-adopting.
+ # Applying Rights
+ 
+ Rights must be distinguished from arbitrary claims on declared needs. They cannot exist without a self-consistent statement on how they are to be established and applied.
+ 
+ The primary principle of rights is that they are self-adopting.
  
  The principle of property implies that rights are applied where it is _proper_ for them to be applied. within the pepper context and onto the proper range.
  
