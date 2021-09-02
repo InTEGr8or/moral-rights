@@ -1,6 +1,6 @@
  the primary principle of rights is that they are self-adopting.
  
- The principle of property implies that rights are applied where it is _proper_ for them to be applied. within the pepper context and into the pepper range.
+ The principle of property implies that rights are applied where it is _proper_ for them to be applied. within the pepper context and onto the proper range.
  
  This, further, implies a method by with to deal with the improper policies: make them applied first _onto_ their proponents.
  
