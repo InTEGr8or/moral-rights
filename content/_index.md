@@ -1,6 +1,9 @@
-# Moral Rights
+---
+title: Moral Rights
+date: 2021-09-04
+description: A technical specification for a foundation of minimal requirements of government
+---
 
-## A technical specification for a foundation of minimal requirements of government
 
 Morality is the guide to action. It is the study of what to do, and of judging what has been done.
 
