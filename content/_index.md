@@ -2,7 +2,9 @@
 
 ## A technical specification for a foundation of minimal requirements of government
 
-Morality is the higher-level abstract topic of discerning right action from wrong action.
+Morality is the guide to action. It is the study of what to do, and of judging what has been done.
+
+Morality is the higher-level topic of discerning right action from wrong action.
 
 * It is higher-level because it is an abstraction _built on_ prior, more fundamental abstractions which it depends on, such as value, judgment, action, intent, and life.
 
