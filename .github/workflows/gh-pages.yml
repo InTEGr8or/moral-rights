@@ -31,6 +31,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           destination_dir: ./docs
-          publish_branch: master
+          publish_branch: public
           cname: moralrights.tech
 
