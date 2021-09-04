@@ -18,7 +18,11 @@ amazonAssociateTrackingId = "mobilea0dbe49-20"
 
 [params]
   title = "Moral Rights"
-  taglines = ["A technical specification for","a foundation of minimal","requirements of government"]
+  taglines = [
+    "A technical specification for",
+    "a foundation of minimal",
+    "requirements of government"
+  ]
   version = "beta"
   githubURL = "git@github.com:InTEGr8or/moral-rights.git"
   logo="/images/nofakingway-250xauto.jpg"

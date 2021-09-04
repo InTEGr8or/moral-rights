@@ -1,3 +1,6 @@
 [submodule "themes/blackplain"]
 	path = themes/blackplain
 	url = https://github.com/InTEGr8or/hugo_blackplain_theme
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = git@github.com:taikii/whiteplain.git
