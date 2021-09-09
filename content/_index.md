@@ -53,7 +53,7 @@ It must be pointed out that this view against populism, against the rule by majo
 
 ## New-world system: Individual rights
 
-- Individual rights, the right to not be ruled.
+- Individual rights are rights to not be ruled.
 
 ## Left and Right: a fragile dichotomy
 
