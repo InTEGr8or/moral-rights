@@ -33,4 +33,3 @@ jobs:
           destination_dir: ./
           publish_branch: published
           cname: moralrights.tech
-
