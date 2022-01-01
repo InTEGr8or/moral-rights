@@ -535,6 +535,9 @@ div.notices.tip p {
 div.notices.tip p:first-child:after {
     content: 'Tip';
 }
+section#body{
+    max-width: 900px;
+}
 
 /* attachments shortcode */
 
