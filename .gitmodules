@@ -2,3 +2,6 @@
 	path = themes/blackplain
 	url = https://github.com/InTEGr8or/hugo_blackplain_theme
 
+[submodule "themes/learn"]
+	path = themes/learn
+	url = git@github.com:matcornic/hugo-theme-learn.git
