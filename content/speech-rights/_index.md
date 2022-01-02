@@ -2,6 +2,7 @@
 title: Speech Rights
 date: 2021-09-04
 description: Rights are a public proclaimation of policy statements and cannot exist with the right to make such statements.
+evaluation: good
 ---
 ## The Three Needs of Speech Rights
 

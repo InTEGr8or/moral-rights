@@ -3,6 +3,7 @@ title: Disorientation
 date: 2021-01-01
 draft: false
 description: The subversion of moral coordinates
+evaluation: bad
 ---
 
 People complain every day about the loss of moral-political coordinates:

@@ -3,6 +3,7 @@ title: Applying Rights
 date: 2021-09-04
 description: Rights are claims of universal principles for all moral actors and the foundation of all policy. 
 draft: false
+evaluation: good
 ---
  
  Rights must be distinguished from arbitrary claims on declared needs. They cannot exist without a self-consistent statement on how they are to be established and applied.
