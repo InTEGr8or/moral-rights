@@ -5,7 +5,9 @@ description: A technical specification for a foundation of minimal requirements 
 ---
 # Moral Rights
 
-Morality is the guide to action. It is the study of what to do, and of judging what has been done.
+Morality is the guide to action. 
+
+It is the study of what to do, and of judging what has been done.
 
 Morality is the higher-level topic of discerning right action from wrong action.
 
@@ -14,6 +16,18 @@ Morality is the higher-level topic of discerning right action from wrong action.
 Politics is the higher-level abstract topic of coordinating moral judgment among a community of humans and encoding rules into laws.
 
 All forms of governance and rule throughout history have been built upon a system of rights.
+
+## The Fundamental Observation of Rights
+
+There is a foundational observation and statement of fact that any rational system of rights must be based on and it is this: 
+
+Each person has one and only one life to live.
+
+This is the way in which we are all equal. This is the real meaning of the ideal of equality before the law.
+
+It is a fact which all rights must be discussed within the context of. It is the constant context of any discussion of rights.
+
+Each individual has a life, the have only one life, and they are the only rightful and proper _owner_ of that life. So it is also the foundation of any discussion of property.
 
 ## Old-world systems: Right to rule
 

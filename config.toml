@@ -22,7 +22,6 @@ home = ["HTML", "RSS", "JSON"]
 [params]
   title = "Moral Rights"
   description = "A technical specification for a foundation of minimal requirements of government"
-  editURL = "https://github.com/InTEGr8or/moral-rights/edit/master/content/"
   author = "Mark Stouffer"
   taglines = [
     "A technical specification for",
@@ -30,9 +29,10 @@ home = ["HTML", "RSS", "JSON"]
     "requirements of government"
   ]
   # Specifies the remote location of the mermaid js
-  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   version = "beta"
   githubURL = "git@github.com:InTEGr8or/moral-rights.git"
+  editURL = "https://github.com/InTEGr8or/moral-rights/edit/master/content/"
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
   # Hide Next and Previous page buttons normally displayed full height beside content
   disableNextPrev = true
   # Provide a list of custom css files to load relative from the `static/` folder in the site root.
