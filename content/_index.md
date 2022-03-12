@@ -5,7 +5,7 @@ description: A technical specification for a foundation of minimal requirements 
 ---
 # Moral Rights
 
-Morality is the guide to action. 
+Morality is the guide to action. It pertains only to human choices. 
 
 It is the study of what to do, and of judging what has been done.
 
