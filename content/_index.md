@@ -54,6 +54,20 @@ Countless books and articles focus on "The Threat to Democracy" and "Liberty vs 
 
 Additionally, societal progress of privatly owned printing, production, and industry is labeld "The democratization of printing" and "the democratization of production", when, in fact, it's the opposite of democratization. No one has to vote on what their private means of production will produce.
 
+Democracy is not identical to liberty. Whenever a majority votes to violate the liberty of minorities, democracy is in opposition to liberty. At that point, democracy stands in opposition to rights.
+
+The popular vote is _not_ a moral principle.
+
+Many real-world examples are available: The National Socialist Party of the 1930s and '40s were popularly elected. Before them, the Soviet socialist "Bulshevek" had been popularly elected at one point, and took the name, which means "majority party". And, of course, before either of those, the American Democratic Party used the popular vote to enslave minorities in the Democrat South. At that time, the Democratic Party was clear in their messaging that they favored "majority rule" _over_ a system of individual rights, and they used that majority rule to build slave plantations and to start a war to preserve the institution of slavery.
+
+#### Mistaking Populations for Principles
+
+Pretending that popular votes are principles has many adjacent affects. One of the biggest is mistaking populations for populations are principles.
+
+Any discussion of a moral principle in popular media is shure to spend a majority of it's time referring to popular opinions of representative populations. When discussing the Right or the Left, news commentators will refer the the "new Left" or the "alt right" or to "what the right is now" by referring to popularly elected officials, as if the popularly elected official _defines_ what the principle is.
+
+To clarify this point, I must state what a principle _is_. 
+
 ### The Principle of Populism
 
 Majority-rule is called out explicitly because it pervades politial thinking amongst advocates of the left and the right in the current day.
