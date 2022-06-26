@@ -87,6 +87,16 @@ It must be pointed out that this view against populism, against the rule by majo
 
 Politics is about governance and governance is about laws, and laws are about distinguishing, judging, right from wrong.
 
+It is not about estimating and satisfying the material needs of a population, or of deciding which population to favor over another population.
+
+The "right" and the "left" are often discussed as warring population of competing intents that must be balanced, one against the other, by a political system of checks and "balances". The left/right dichotomy is described as two "wings" of a bird, which is often taken to be the great Golden Eagle of the national symbol.
+
+But what kind of bird has wings which are at war with each other? How well does a bird fly whose wings are working _against_ the intent of the other wing? That is not how birds work. Birds use their wings _together_.
+
+But how much more destructive is the view of a great nation of nearly 400 million people to say they have only one head among them? That each person is merely a member, perhaps a feather, making no choices of their own and only obediently following the decisions made in the far awaay head controlled by others?
+
+How has such a destructive image been placed into cultural currency?
+
 ## The Problem
 
 Although all forms of governance in the world depend on a system of rights, they are all poorly defined.
