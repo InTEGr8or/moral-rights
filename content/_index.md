@@ -29,6 +29,12 @@ It is a fact which all rights must be discussed within the context of. It is the
 
 Each individual has a life, the have only one life, and they are the only rightful and proper _owner_ of that life. So it is also the foundation of any discussion of property.
 
+## The Good and The Bad
+
+The bad can only be judged in relation to some concept of the good, so we should start with a statement of the good.
+
+People survive by producing beneficial circumstance. An example is breathing. The intake of oxygen is necessary for the continuance of the decision-making process beyond a very limited timeframe, and so it serves as a good example. The inhalation of oxygen also only needs to occur for a short duration before effluent needs to be exhaled, there is a time-based decision-making component of judgment, and this is true of all decision making and all judgement. The value of inhalation it's valuable too a particular person and for a particular duration.
+
 ## Old-world systems: Right to rule
 
 - Devine right
